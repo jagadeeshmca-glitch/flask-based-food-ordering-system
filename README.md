@@ -31,17 +31,17 @@ The following configuration details are required to connect the application to t
 
 ### 3.1. General Database Setup
 
-* **DBMS Type:** [e.g., PostgreSQL, MySQL, MongoDB]
+* **DBMS Type:**  MySQL
 * **Database Name:** food_order_db
 * **Host/Server Address:** localhost (or IP address if remote)
-* **Port:** [e.g., 5432 for PostgreSQL, 3306 for MySQL, 27017 for MongoDB]
+* **Port:** [3306 for MySQL]
 
 ### 3.2. Database User Credentials
 
 This user is required for the application server to connect and perform CRUD (Create, Read, Update, Delete) operations.
 
 * **DB Username:** food_app_user
-* **DB Password:** ChangeMeSecurely!
+* **DB Password:** 6232
 
 ---
 
