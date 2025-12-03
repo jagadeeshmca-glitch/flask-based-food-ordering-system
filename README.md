@@ -1,6 +1,6 @@
-==================================================
+
 PROJECT: FOOD ORDERING SYSTEM (FOS) - CONFIGURATION
-==================================================
+
 
 ## 1. PROJECT OVERVIEW
 
